@@ -11,6 +11,6 @@ Chennai super kings
 2. M.s dhoni
 3. Ravindra jadeja
 
-* virat kohli
-* alex hales
-* aaron finch
+* Mumbai indins
+* royal challangers banglore
+* rajasthan royals
