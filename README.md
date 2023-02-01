@@ -30,3 +30,8 @@ would recommend someone visit.
 |UK            |royality|2                |
 |ireland       |bear    |2                |
 
+-------------------------------------------
+## Funny quotes
+>A single death is a tragedy ;a million is a deaths is a statistic -*Stalin*
+
+>Confidence is quiet.Insecurities are loud - *Stepphen McCranie*
