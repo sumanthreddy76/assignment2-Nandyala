@@ -16,3 +16,17 @@ Chennai super kings
 * rajasthan royals
 
 about myself ![link to my photo](AboutMe.md)
+
+-------------------------------
+
+## Countries to visit
+creating a table about 4 countries that I
+would recommend someone visit.
+
+| Country name | Reason | days recommended|
+|--------------|--------|-----------------|
+|India         |temples |4                |
+|canada        |niagara |3                |
+|UK            |royality|2                |
+|ireland       |bear    |2                |
+
