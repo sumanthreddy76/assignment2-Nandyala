@@ -35,3 +35,17 @@ would recommend someone visit.
 >A single death is a tragedy ;a million is a deaths is a statistic -*Stalin*
 
 >Confidence is quiet.Insecurities are loud - *Stepphen McCranie*
+-----------------
+# Code Fencing
+ [Link to wordpress code snippet](https://css-tricks.com/snippets/wordpress/output-excerpt-manually/)
+
+```
+
+<?wordpress
+<?php 
+  $content = get_the_content(); 
+  echo substr(strip_tags($content), 0, 130) . '...'; 
+?>
+
+```
+[Link to Stackoverflow wordpress page](https://stackoverflow.com/questions/65364069/wordpress-print-excerpt-of-the-post)
