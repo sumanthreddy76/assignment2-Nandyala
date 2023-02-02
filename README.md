@@ -37,7 +37,7 @@ would recommend someone visit.
 >Confidence is quiet.Insecurities are loud - *Stepphen McCranie*
 -----------------
 # Code Fencing
- [Link to wordpress code snippet](https://css-tricks.com/snippets/wordpress/output-excerpt-manually/)
+ >[Link to wordpress code snippet](https://css-tricks.com/snippets/wordpress/output-excerpt-manually/)
 
 ```
 
